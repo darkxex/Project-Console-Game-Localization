@@ -17,6 +17,17 @@ namespace DecryptSetsuna
             return data;
         }
 
+        public static byte[] DecryptParameterAES(byte[] data)
+        {
+            {
+                AesManaged managed = new AesManaged();
+                byte[] bytes = Encoding.UTF8.GetBytes("8xTD|EgD|b?07QDj");
+                byte[] buffer2 = Encoding.UTF8.GetBytes("/]s@*CxLzM!9Qd%(");
+                return managed.CreateDecryptor(bytes, buffer2).TransformFinalBlock(data, 0, data.Length);
+            }
+            return data;
+        }
+
         public static byte[] EncryptParameter(byte[] data)
         {
             RijndaelManaged managed = new RijndaelManaged();

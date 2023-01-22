@@ -15,7 +15,7 @@ namespace DecryptSetsuna
             byte[] src = new byte[size];
             fs.Read(src, 0, src.Length);
             fs.Close();
-            byte[] dst = ParameterManager.DecryptParameter(src);
+            byte[] dst = ParameterManager.DecryptParameterAES(src);
             FileStream ds = new FileStream(dest_name, FileMode.Create);
             ds.Write(dst, 0, dst.Length);
             ds.Close();

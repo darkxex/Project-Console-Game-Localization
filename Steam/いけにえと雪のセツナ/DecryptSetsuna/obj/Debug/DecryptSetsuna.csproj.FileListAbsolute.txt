@@ -3,3 +3,9 @@ L:\Games\I am Setsuna\Setsuna_tool\DecryptSetsuna\DecryptSetsuna\bin\Debug\Decry
 L:\Games\I am Setsuna\Setsuna_tool\DecryptSetsuna\DecryptSetsuna\obj\Debug\DecryptSetsuna.csprojResolveAssemblyReference.cache
 L:\Games\I am Setsuna\Setsuna_tool\DecryptSetsuna\DecryptSetsuna\obj\Debug\DecryptSetsuna.exe
 L:\Games\I am Setsuna\Setsuna_tool\DecryptSetsuna\DecryptSetsuna\obj\Debug\DecryptSetsuna.pdb
+C:\Users\AngelXex\Documents\GitHub\Project-Console-Game-Localization\Steam\いけにえと雪のセツナ\DecryptSetsuna\bin\Debug\DecryptSetsuna.exe
+C:\Users\AngelXex\Documents\GitHub\Project-Console-Game-Localization\Steam\いけにえと雪のセツナ\DecryptSetsuna\bin\Debug\DecryptSetsuna.pdb
+C:\Users\AngelXex\Documents\GitHub\Project-Console-Game-Localization\Steam\いけにえと雪のセツナ\DecryptSetsuna\obj\Debug\DecryptSetsuna.csproj.AssemblyReference.cache
+C:\Users\AngelXex\Documents\GitHub\Project-Console-Game-Localization\Steam\いけにえと雪のセツナ\DecryptSetsuna\obj\Debug\DecryptSetsuna.csproj.CoreCompileInputs.cache
+C:\Users\AngelXex\Documents\GitHub\Project-Console-Game-Localization\Steam\いけにえと雪のセツナ\DecryptSetsuna\obj\Debug\DecryptSetsuna.exe
+C:\Users\AngelXex\Documents\GitHub\Project-Console-Game-Localization\Steam\いけにえと雪のセツナ\DecryptSetsuna\obj\Debug\DecryptSetsuna.pdb
